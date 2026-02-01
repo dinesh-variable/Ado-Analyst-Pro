@@ -1,0 +1,5 @@
+{
+  "name": "Ada Analyst Pro",
+  "description": "A sophisticated web-based data analyst that transforms your CSV and JSON files into actionable insights using natural language. Upload datasets, ask questions, and visualize trends instantly with AI-powered analytics.",
+  "requestFramePermissions": []
+}
